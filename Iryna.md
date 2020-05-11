@@ -31,7 +31,7 @@
 <br/>
 
 
-[_About Me_](www.Iryna.be)
+[_About Me_](https://github.com/IrynaSpyrydonova)
 <br/>
 
 [<< Eltayeb](./Eltayeb-Elgaali.md) | [Joel >>](./Joel-Camach.md)
