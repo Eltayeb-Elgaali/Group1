@@ -1,4 +1,4 @@
-# # Yildiray
+# Yildiray
 
 
 
@@ -34,7 +34,7 @@
 <br/>
 
 
-[_About Me_](www.Yildiray.be)
+[_About Me_](https://github.com/yildiraykoyuncu)
 <br/>
 
 [<< Yauheniya](./Yauheniya.md) | [Yulia >>](./Yulia-Dorusoz.md)
