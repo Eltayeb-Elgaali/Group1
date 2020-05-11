@@ -1,6 +1,6 @@
 # Eltayeb elgaali
 
-<img src="https://images.unsplash.com/photo-1529338296731-c4280a44fc48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="50" height="50">
+<img src="https://images.unsplash.com/photo-1529338296731-c4280a44fc48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60" width="100" height="100">
 
 ![photp](https://images.unsplash.com/photo-1529338296731-c4280a44fc48?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60 =50x50)
 
