@@ -1,4 +1,4 @@
-# # Yildiray
+# Yulia-Dorusoz
 
 
 
@@ -6,7 +6,7 @@
 
 #### Personal Information:
 
-- Name : Yildiray
+- Name : Yulia-Dorusoz
 
 - 
 - 
@@ -25,7 +25,7 @@
 
 #### Hobby's
 
-- Playing Tennis
+- 
 
 - 
 - 
@@ -34,7 +34,7 @@
 <br/>
 
 
-[_About Me_](www.Yildiray.be)
+[_About Me_](www.Yulia-Dorusoz.be)
 <br/>
 
-[<< Yauheniya](./Yauheniya.md) | [Yulia >>](./Yulia-Dorusoz.md)
+[<< Yildiray](./Yildiray.md) | [Eltayeb >>](./Eltayeb-Elgaali.md)

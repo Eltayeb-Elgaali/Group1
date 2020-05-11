@@ -1,5 +1,0 @@
-# Yulia Dorusoz
-
-
-### hobbys
-
