@@ -34,7 +34,7 @@
 <br/>
 
 
-[_About Me_](www.Yauheniya.be)
+[_About Me_](https://github.com/yauheniya-askolkava)
 <br/>
 
 [<< Joel](./Joel-Camach.md) | [Yildiray >>](./Yildiray.md)
