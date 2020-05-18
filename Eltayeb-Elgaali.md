@@ -34,4 +34,4 @@ Master's Degree in Computer Science (MSCS) – Khartoum University.
 
 [_Github account_](https://github.com/Eltayeb-Elgaali)
 
-[<< Home](./) | [Iryna >>](./Iryna.md)
+[<< Home](https://github.com/Eltayeb-Elgaali/Zoom-Group) | [Iryna >>](./Iryna.md)
